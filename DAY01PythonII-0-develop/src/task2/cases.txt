@@ -1,0 +1,21 @@
+1 2
+2 2
+Knight
+1 2
+2 4
+knigHt
+1 2
+2 2
+king
+1 2
+2 4    
+king   
+1 2
+2 3
+rook
+2 2       
+2 2
+rOOk
+1 2
+5 5
+knight
